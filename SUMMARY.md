@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [1. What Is React](what-is-react.md)
 * [2. React Semantics/Terminology](react-semantics.md)
 * [3. React & Babel Basic Setup](react-basic-setup.md)
